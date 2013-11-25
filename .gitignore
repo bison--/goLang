@@ -20,3 +20,10 @@ _cgo_export.*
 _testmain.go
 
 *.exe
+
+# temp files
+*.*~
+
+# unix binaries
+goBench
+goTest
